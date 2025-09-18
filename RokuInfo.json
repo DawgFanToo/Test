@@ -658,7 +658,7 @@
 	],
 	"Music": [{
 			"longDescription": "Insert funny music pun here",
-			"thumbnail": "https://raw.githubusercontent.com/DawgFanToo/Test/refs/heads/main/images/Miku.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/DawgFanToo/Test/images/Miku.jpg",
 			"releaseDate": "2020-01-20",
 			"genres": [
 				"educational"
